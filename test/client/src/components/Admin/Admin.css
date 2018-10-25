@@ -1,0 +1,14 @@
+.custom-edit-btn {
+    padding: 5px 25px;
+    margin: 0 10px;
+}
+.modal-footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1rem;
+    border-top: none!important;
+}
+.bd-edit-modal-lg .modal-content {
+    padding: 20px;
+}
